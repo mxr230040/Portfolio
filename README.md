@@ -66,7 +66,7 @@ GPA: 4.00/4.00
 
 ## 📊 Projects
 
-### Predicting Customer Response to Marketing Campaigns
+### [Predicting Customer Response to Marketing Campaigns](https://github.com/mxr230040/Marketing_Campaign_Analysis)
 *March 2024 – April 2024*  
 - Performed comprehensive analysis to understand customer characteristics that influence their response towards marketing campaigns
 - Used R to build and fine-tune multiple machine learning models to predict customer behavior, achieving 88% accuracy
