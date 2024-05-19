@@ -72,7 +72,7 @@ GPA: 4.00/4.00
 - Used R to build and fine-tune multiple machine learning models to predict customer behavior, achieving 88% accuracy
 - Utilized K-Means clustering to identify customer segments and actionable insights to enhance the profitability of marketing campaigns
 
-### A/B Testing with Cookie Cats
+### [A/B Testing with Cookie Cats](https://github.com/mxr230040/AB_Testing_with_Cookie_Cats)
 *December 2023 – January 2023*  
 - Performed A/B test to evaluate the impact of relocating the first gate in Cookie Cats from level 30 to level 40
 - Utilized hypothesis testing and bootstrap analysis to determine a 96% probability that retaining the gate at level 30 yielded higher player retention, emphasizing user experience over in-app purchases
