@@ -83,7 +83,7 @@ GPA: 4.00/4.00
 - Developed multiple machine learning models using Alteryx workflow to predict customer creditworthiness, achieving 78% accuracy
 
 ### Shipment and Inventory Management
-*December 2023 – January 2023*  
+*December 2023 – January 2024*  
 - Identified and addressed key challenges in shipment and inventory management by analyzing supply chain inefficiencies
 - Developed insightful Tableau dashboards to inform business stakeholders about potential problems
 
