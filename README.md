@@ -46,18 +46,26 @@ GPA: 4.00/4.00
 
 ## 💼 Professional Experience
 
-### Affine, India
+### mender, Euless, TX
 
-**Senior Business Analyst**  
-*April 2022 – July 2023*  
+**Data Analytics Intern**
+
+
+### Affine, India
+-	Performed web automation using Selenium library to facilitate automated data extraction across more than 20 web pages
+-	Designed and developed architecture for moving data from in-house ERP system to an Azure SQL Database
+-	Performed data cleanup and processing activities using SQL and Python to prepare data for analysis
+-	Documented SOPs and work instructions based on different operations in the production environment
+-	Developed operations dashboards for Gemba and L10 scoreboards, ensuring real-time performance tracking
+-	Designed Power BI dashboards to analyze financial performance, including profit, cost savings and product volume metrics
+
+**Business Analyst**  
+*December 2020 – July 2023*  
 - Managed lifecycle of digital advertisement data, including data aggregation, cleaning, storage, and analysis in an Azure Environment
 - Facilitated decision-making by producing Ad-hoc reports, leveraging tools such as Power BI and SQL to meet 100% requirements
 - Reduced report generation time by 30% through efficient data extraction and manipulation techniques
 - Designed and maintained dynamic dashboards and reports in Power BI and Excel, resulting in an 80% reduction in manual effort and real-time monitoring of more than 15 key performance indicators
-- Delivered comprehensive training sessions on Power BI to ~70 colleagues, enhancing team capabilities in data visualization
-
-**Associate - Business Analyst**  
-*December 2020 – March 2022*  
+- Delivered comprehensive training sessions on Power BI to ~70 colleagues, enhancing team capabilities in data visualization 
 - Developed ETL pipelines on Azure Data Factory, achieving 20% improvement in operational efficiency
 - Streamlined data ingestion processes to minimize pipeline failures by 40%
 - Automated generation of advertisement revenue reports by utilizing advanced Excel Functions and Pivot tables, resulting in 50% reduction in operation time
