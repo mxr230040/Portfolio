@@ -49,15 +49,15 @@ GPA: 4.00/4.00
 ### mender, Euless, TX
 
 **Data Analytics Intern**
-
-
-### Affine, India
+*June 2024 - Present*
 -	Performed web automation using Selenium library to facilitate automated data extraction across more than 20 web pages
 -	Designed and developed architecture for moving data from in-house ERP system to an Azure SQL Database
 -	Performed data cleanup and processing activities using SQL and Python to prepare data for analysis
 -	Documented SOPs and work instructions based on different operations in the production environment
 -	Developed operations dashboards for Gemba and L10 scoreboards, ensuring real-time performance tracking
 -	Designed Power BI dashboards to analyze financial performance, including profit, cost savings and product volume metrics
+
+### Affine, India
 
 **Business Analyst**  
 *December 2020 – July 2023*  
