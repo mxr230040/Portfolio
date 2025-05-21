@@ -50,11 +50,13 @@ GPA: 4.00/4.00
 
 **Data Analytics Intern**  
 *June 2024 - Present*  
--	Automated data extraction from 20+ web pages using Selenium, reducing time taken for data extraction by 50%
--	Analyzed operational data to identify key performance indicators, contributing to data driven decision making that improved productivity by 15%
-- Developed Stored Procedures to enable automated data transformation for downstream reporting and analysis
-- Built python scripts for automating report generation and emailing it to stakeholders, saving time by 70%
-- Designed Power BI dashboards to analyze operations and financial performance, including profit, and product volume metrics 
+•	Designed and deployed scalable, end-to-end data pipelines integrating ERP systems with cloud analytics using Python, SQL, Azure, and Power BI.
+•	Developed robust preprocessing scripts in Python to clean, transform, and structure large datasets, enabling efficient downstream analytics.
+•	Engineered OLAP data models and SQL-based data marts, optimizing query performance and enabling granular drill-down analysis for stakeholders.
+•	Designed dynamic Power BI dashboards with data from over four systems and 10+ relational tables, offering comprehensive views into vendor and operational performance.
+•	Delivered KPI dashboards and operational scorecards that allowed leadership to track performance against targets and implement corrective actions, improving team efficiency.
+•	Automated web-based data extraction from ERP systems using Selenium, streamlining data collection workflows by 50%
+
 
 
 ### Affine, India
