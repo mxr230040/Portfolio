@@ -50,12 +50,12 @@ GPA: 4.00/4.00
 
 **Data Analytics Intern**  
 *June 2024 - Present*  
-•	Designed and deployed scalable, end-to-end data pipelines integrating ERP systems with cloud analytics using Python, SQL, Azure, and Power BI.
-•	Developed robust preprocessing scripts in Python to clean, transform, and structure large datasets, enabling efficient downstream analytics.
-•	Engineered OLAP data models and SQL-based data marts, optimizing query performance and enabling granular drill-down analysis for stakeholders.
-•	Designed dynamic Power BI dashboards with data from over four systems and 10+ relational tables, offering comprehensive views into vendor and operational performance.
-•	Delivered KPI dashboards and operational scorecards that allowed leadership to track performance against targets and implement corrective actions, improving team efficiency.
-•	Automated web-based data extraction from ERP systems using Selenium, streamlining data collection workflows by 50%
+- Designed and deployed scalable, end-to-end data pipelines integrating ERP systems with cloud analytics using Python, SQL, Azure, and Power BI.
+- Developed robust preprocessing scripts in Python to clean, transform, and structure large datasets, enabling efficient downstream analytics.
+- Engineered OLAP data models and SQL-based data marts, optimizing query performance and enabling granular drill-down analysis for stakeholders.
+- Designed dynamic Power BI dashboards with data from over four systems and 10+ relational tables, offering comprehensive views into vendor and operational performance.
+- Delivered KPI dashboards and operational scorecards that allowed leadership to track performance against targets and implement corrective actions, improving team efficiency.
+- Automated web-based data extraction from ERP systems using Selenium, streamlining data collection workflows by 50%
 
 
 
