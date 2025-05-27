@@ -131,6 +131,6 @@ GPA: 3.82/4.00
 
 ## 📫 Contact Me
 
-- **Email:** [mxr230040@utdallas.edu](mxr230040@utdallas.edu)
+- **Email:** [smahadevan1998@gmail.com](smahadevan1998@gmail.com)
 - **LinkedIn:** [https://www.linkedin.com/in/mahadevanramanan1998/](https://www.linkedin.com/in/mahadevanramanan1998/)
 - **GitHub:** [https://github.com/mxr230040](https://github.com/mxr230040)
