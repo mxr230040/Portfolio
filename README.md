@@ -1,6 +1,18 @@
 # 👋 Hi, I'm Mahadevan!
 
-I am a data science, engineering, and GenAI enthusiast currently pursuing a Master of Science in Business Analytics at The University of Texas at Dallas. With a strong academic foundation and hands-on experience in data analysis, machine learning, and Python, I am actively seeking data analytics, data science, or data engineering internships for Summer/Fall.
+Welcome to my GitHub portfolio! I’m a data professional passionate about building robust data infrastructure, delivering impactful analytics, and using business intelligence to drive smarter decision-making. With over 4 years of experience spanning analytics, business intelligence, and data engineering, I specialize in transforming complex data into clear, actionable insights.
+
+---
+
+## 📄 Summary
+
+As a Business Intelligence Analyst with a strong background in Azure cloud technologies and Python-based data solutions, I focus on building scalable data pipelines, dynamic dashboards, and performance-focused data models. My approach blends technical expertise with business acumen to solve real-world problems and support high-impact decision-making.
+
+* 4+ years of experience in analytics, BI, and data engineering
+* Deep expertise in SQL, Python, Power BI, Azure Data Factory, and Databricks
+* Strong focus on data modeling, reporting automation, and operational analytics
+* Proven track record of delivering cross-functional analytics solutions
+* Passionate about using data to solve problems and improve outcomes
 
 ---
 
@@ -9,7 +21,7 @@ I am a data science, engineering, and GenAI enthusiast currently pursuing a Mast
 ### The University of Texas at Dallas
 **Master of Science in Business Analytics**  
 *August 2023 - May 2025*  
-GPA: 4.00/4.00  
+GPA: 3.82/4.00  
 **Relevant Courses:** Advanced Statistics for Data Science, Big Data, Database Foundations, Predictive Analytics
 
 ### Motilal Nehru National Institute of Technology, Prayagraj
@@ -31,7 +43,8 @@ GPA: 4.00/4.00
 ![Alteryx](https://img.shields.io/badge/Alteryx-276DC3?style=for-the-badge&logo=alteryx&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
@@ -75,6 +88,14 @@ GPA: 4.00/4.00
 ---
 
 ## 📊 Projects
+
+### Healthcare Revenue Cycle Management (RCM) on Azure
+*May 2025 – Present*
+* Architected a Medallion-based data lake solution for healthcare RCM data, leveraging Azure Data Factory, Databricks, and SQL
+* Built ingestion frameworks for EMR and claims data, ensuring schema enforcement, quality checks, and metadata control
+* Used Delta Lake for storage layers and Azure Key Vault for secure credentialing
+* Developed fact and dimension tables to report on KPIs such as AR aging, Days in AR, and Clean Claim Rate
+* Enabled integration with Power BI dashboards for financial insights by healthcare stakeholders
 
 ### [Predicting Customer Response to Marketing Campaigns](https://github.com/mxr230040/Marketing_Campaign_Analysis)
 *March 2024 – April 2024*  
