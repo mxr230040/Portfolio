@@ -63,12 +63,12 @@ GPA: 3.82/4.00
 
 **Data Analytics Intern**  
 *June 2024 - Present*  
-- Designed and deployed scalable, end-to-end data pipelines integrating ERP systems with cloud analytics using Python, SQL, Azure, and Power BI.
-- Developed robust preprocessing scripts in Python to clean, transform, and structure large datasets, enabling efficient downstream analytics.
-- Engineered OLAP data models and SQL-based data marts, optimizing query performance and enabling granular drill-down analysis for stakeholders.
-- Designed dynamic Power BI dashboards with data from over four systems and 10+ relational tables, offering comprehensive views into vendor and operational performance.
-- Delivered KPI dashboards and operational scorecards that allowed leadership to track performance against targets and implement corrective actions, improving team efficiency.
-- Automated web-based data extraction from ERP systems using Selenium, streamlining data collection workflows by 50%
+- Designed and implemented scalable, end-to-end data pipelines that integrate ERP systems with cloud-based analytics platforms, including Azure Data Lake and Data Warehouses.
+- Developed robust Python preprocessing scripts and SQL-based transformations to ensure high-quality, structured data for analytics consumption, supporting downstream data catalog documentation and usage tracking.
+- Engineered OLAP data models and optimized relational and star schema structures in SQL, significantly improving query performance and enabling self-service analytics in Power BI.
+- Built dynamic Power BI dashboards aggregating data from multiple transactional databases and data lakes, facilitating stakeholder data discovery and promoting data literacy across functional teams.
+- Implemented data quality monitoring processes, including automated data validation, anomaly detection, and data incident reporting pipelines.
+- Contributed to Data Governance initiatives by establishing data classification and lifecycle management standards
 
 
 
@@ -76,14 +76,11 @@ GPA: 3.82/4.00
 
 **Business Analyst**  
 *December 2020 – July 2023*  
-- Managed lifecycle of digital advertisement data, including data aggregation, cleaning, storage, and analysis in an Azure Environment
-- Facilitated decision-making by producing Ad-hoc reports, leveraging tools such as Power BI and SQL to meet 100% requirements
-- Reduced report generation time by 30% through efficient data extraction and manipulation techniques
-- Designed and maintained dynamic dashboards and reports in Power BI and Excel, resulting in an 80% reduction in manual effort and real-time monitoring of more than 15 key performance indicators
-- Delivered comprehensive training sessions on Power BI to ~70 colleagues, enhancing team capabilities in data visualization 
-- Developed ETL pipelines on Azure Data Factory, achieving 20% improvement in operational efficiency
-- Streamlined data ingestion processes to minimize pipeline failures by 40%
-- Automated generation of advertisement revenue reports by utilizing advanced Excel Functions and Pivot tables, resulting in 50% reduction in operation time
+- Managed the lifecycle of digital advertisement data, including aggregation, cleansing, and transformation within Azure-based data warehouses and transactional systems
+- Developed ETL pipelines and reporting solutions using Python, SQL, and Power BI, enabling timely delivery of actionable insights to business teams.
+- Automated and maintained Power BI dashboards and reports, reducing manual effort and promoting adoption of self-service analytics through data literacy initiatives.
+- Led data quality initiatives, including root cause analysis of data incidents and development of reporting frameworks to track data quality metrics.
+- Utilized Agile planning and execution methodologies to manage deliverables, ensuring alignment between technical solutions and business requirements.
 
 ---
 
