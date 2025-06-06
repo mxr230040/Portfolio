@@ -61,7 +61,7 @@ GPA: 3.82/4.00
 
 ### mender, Euless, TX
 
-**Data Analytics Intern**  
+**Data Analyst**  
 *June 2024 - Present*  
 - Designed and implemented scalable, end-to-end data pipelines that integrate ERP systems with cloud-based analytics platforms, including Azure Data Lake and Data Warehouses.
 - Developed robust Python preprocessing scripts and SQL-based transformations to ensure high-quality, structured data for analytics consumption, supporting downstream data catalog documentation and usage tracking.
